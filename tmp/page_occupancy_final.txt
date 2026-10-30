@@ -1,0 +1,79 @@
+pages 78
+01 chars= 116 body_end=462.5 bottom_blank=379.5 title=Report on
+02 chars= 403 body_end=440.2 bottom_blank=401.8 title=BONAFIDE CERTIFICATE
+03 chars=2758 body_end=563.9 bottom_blank=278.1 title=TABLE OF CONTENTS
+04 chars=2848 body_end=589.9 bottom_blank=252.1 title=TABLE OF CONTENTS (CONTINUED)
+05 chars=2000 body_end=542.7 bottom_blank=299.3 title=ABSTRACT
+06 chars=2307 body_end=590.7 bottom_blank=251.3 title=ABSTRACT (CONTINUED)
+07 chars= 294 body_end=256.3 bottom_blank=585.7 title=LIST OF FIGURES
+08 chars= 430 body_end=355.7 bottom_blank=486.3 title=GRAPHICAL ABSTRACT
+09 chars=2359 body_end=787.5 bottom_blank= 54.5 title=CHAPTER 1
+10 chars=2331 body_end=722.2 bottom_blank=119.8 title=(cid:127) Construct a model prompt and request a generated reply from Gemini.
+11 chars=1712 body_end=752.0 bottom_blank= 90.0 title=CHAPTER 2
+12 chars=2093 body_end=788.5 bottom_blank= 53.5 title=User Client Spring API Gemini
+13 chars=2540 body_end=766.3 bottom_blank= 75.7 title=2.5 Problem Definition
+14 chars=2067 body_end=764.5 bottom_blank= 77.5 title=CHAPTER 3
+15 chars=1529 body_end=781.5 bottom_blank= 60.5 title=(cid:127) No persistent account or history subsystem: the supplied source has no
+16 chars=2350 body_end=720.5 bottom_blank=121.5 title=The form-level empty-input check improves usability, but equivalent server-side 
+17 chars=2398 body_end=669.0 bottom_blank=173.0 title=3.5 Logo Designing and Naming
+18 chars=2348 body_end=779.5 bottom_blank= 62.5 title=CHAPTER 4
+19 chars=2421 body_end=700.2 bottom_blank=141.8 title=No meeting notes, work assignments, milestone records, or version-control histor
+20 chars=2471 body_end=779.5 bottom_blank= 62.5 title=CHAPTER 5
+21 chars=2658 body_end=758.1 bottom_blank= 83.9 title=5.2.5 Complete deployment and accessibility work
+22 chars= 906 body_end=411.2 bottom_blank=430.8 title=REFERENCES
+23 chars=2384 body_end=770.8 bottom_blank= 71.2 title=APPENDIX A - SOURCE CODE AND SYSTEM WALKTHROUGH
+24 chars=2633 body_end=749.8 bottom_blank= 92.2 title=A.3 Input state and tone selection
+25 chars=2452 body_end=761.8 bottom_blank= 80.2 title=A.5 Generated reply display and clipboard action
+26 chars=2521 body_end=734.6 bottom_blank=107.4 title=A.7 Request DTO and application configuration
+27 chars=2588 body_end=749.8 bottom_blank= 92.2 title=A.9 External request and response extraction
+28 chars=2462 body_end=740.4 bottom_blank=101.6 title=APPENDIX B - OPERATIONS AND USER GUIDE
+29 chars=2498 body_end=749.8 bottom_blank= 92.2 title=B.3 Start the Spring Boot backend
+30 chars=2400 body_end=704.2 bottom_blank=137.8 title=B.5 Web interface: prepare the message
+31 chars=2494 body_end=704.2 bottom_blank=137.8 title=B.7 Use the Chrome extension
+32 chars= 517 body_end=463.2 bottom_blank=378.8 title=APPENDIX C - APPLICATION SCREENSHOTS
+33 chars= 476 body_end=364.3 bottom_blank=477.7 title=C.2 Gmail compose view - AI Reply action
+34 chars=2539 body_end=710.0 bottom_blank=132.0 title=APPENDIX D - API, DATA HANDLING, AND SECURITY
+35 chars=2384 body_end=704.2 bottom_blank=137.8 title=D.3 Threat model and trust boundaries
+36 chars=2441 body_end=704.2 bottom_blank=137.8 title=D.5 Input validation and resource limits
+37 chars=2422 body_end=704.2 bottom_blank=137.8 title=D.7 Network transport, CORS, and extension origins
+38 chars=2358 body_end=673.8 bottom_blank=168.2 title=D.9 Logging, privacy notices, and retention
+39 chars=2154 body_end=758.7 bottom_blank= 83.3 title=APPENDIX E - EXTENDED VALIDATION PLAN
+40 chars=2232 body_end=689.0 bottom_blank=153.0 title=E.3 Prompt construction tests
+41 chars=2214 body_end=689.0 bottom_blank=153.0 title=E.5 React input and form behavior
+42 chars=2244 body_end=658.6 bottom_blank=183.4 title=E.7 Gmail extension injection tests
+43 chars=2184 body_end=673.8 bottom_blank=168.2 title=E.9 Network and resilience tests
+44 chars=2280 body_end=716.2 bottom_blank=125.8 title=E.11 Usability and quality evaluation
+45 chars=2370 body_end=725.2 bottom_blank=116.8 title=APPENDIX F - MAINTENANCE AND HANDOVER
+46 chars=2346 body_end=704.2 bottom_blank=137.8 title=F.3 Operational monitoring and support
+47 chars=2484 body_end=704.2 bottom_blank=137.8 title=F.5 Roadmap and release phases
+48 chars=1980 body_end=640.0 bottom_blank=202.0 title=APPENDIX G - PROJECT REQUIREMENTS AND DESIGN RECORD
+49 chars=2129 body_end=655.4 bottom_blank=186.6 title=G.3 Quality attribute priorities
+50 chars=1910 body_end=597.8 bottom_blank=244.2 title=G.5 Use case: generate from the web form
+51 chars=1754 body_end=582.6 bottom_blank=259.4 title=G.7 Requirement traceability worksheet
+52 chars=1932 body_end=613.0 bottom_blank=229.0 title=G.9 Out-of-scope capabilities
+53 chars=1984 body_end=603.8 bottom_blank=238.2 title=G.11 Risk register
+54 chars=1917 body_end=661.2 bottom_blank=180.8 title=APPENDIX H - INTERACTION AND COMPONENT DESIGN
+55 chars=1915 body_end=640.2 bottom_blank=201.8 title=H.3 Gmail extension sequence
+56 chars=1903 body_end=619.0 bottom_blank=223.0 title=H.5 State model for the extension action
+57 chars=1823 body_end=582.6 bottom_blank=259.4 title=H.7 Component interaction and trust boundaries
+58 chars=1815 body_end=597.8 bottom_blank=244.2 title=H.9 Prompt assembly specification
+59 chars=1796 body_end=582.6 bottom_blank=259.4 title=H.11 UI layout and accessibility map
+60 chars=1927 body_end=634.0 bottom_blank=208.0 title=APPENDIX I - DETAILED VALIDATION AND EVIDENCE WORKSHEETS
+61 chars=1830 body_end=613.0 bottom_blank=229.0 title=I.3 Test case: tone behavior
+62 chars=1750 body_end=582.6 bottom_blank=259.4 title=I.5 Test case: malformed provider output
+63 chars=1631 body_end=582.6 bottom_blank=259.4 title=I.7 Test case: clipboard action
+64 chars=1765 body_end=597.8 bottom_blank=244.2 title=I.9 Test case: Gmail extraction and insertion
+65 chars=1799 body_end=588.6 bottom_blank=253.4 title=I.11 Defect severity and triage
+66 chars=1892 body_end=618.8 bottom_blank=223.2 title=APPENDIX J - DEPLOYMENT, QUALITY, AND HANDOVER REFERENCE
+67 chars=1820 body_end=619.0 bottom_blank=223.0 title=J.3 Release gate
+68 chars=1928 body_end=613.0 bottom_blank=229.0 title=J.5 Operational ownership
+69 chars=1940 body_end=640.2 bottom_blank=201.8 title=J.7 Known limitations register
+70 chars=2080 body_end=656.3 bottom_blank=185.7 title=APPENDIX K - API IMPLEMENTATION REFERENCE
+71 chars=2264 body_end=706.8 bottom_blank=135.2 title=APPENDIX L - IMPLEMENTATION AND RELEASE ANALYSIS
+72 chars=2131 body_end=655.4 bottom_blank=186.6 title=L.3 Prompt composition and tone precedence
+73 chars=2149 body_end=655.4 bottom_blank=186.6 title=L.5 Gmail DOM lifecycle and mutation handling
+74 chars=2030 body_end=655.4 bottom_blank=186.6 title=L.7 React request state and recovery
+75 chars=2245 body_end=685.8 bottom_blank=156.2 title=L.9 Data inventory and trust boundaries
+76 chars=2148 body_end=655.4 bottom_blank=186.6 title=L.11 Environment configuration and deployment separation
+77 chars=2093 body_end=685.8 bottom_blank=156.2 title=L.13 Test architecture and isolation
+78 chars=2162 body_end=670.6 bottom_blank=171.4 title=L.15 Release acceptance and residual risk
